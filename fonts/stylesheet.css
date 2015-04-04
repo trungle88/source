@@ -1,0 +1,77 @@
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('MyriadPro-Regular.eot');
+	src: url('MyriadPro-Regular.eot?#iefix') format('embedded-opentype'),
+		 url('MyriadPro-Regular.woff') format('woff'),
+		 url('MyriadPro-Regular.ttf') format('truetype'),
+		 url('MyriadPro-Regular.svg#MyriadPro') format('svg');
+	font-style: normal;
+	font-weight: normal;
+}
+
+@font-face {
+	font-family: 'MyriadPro';
+	src: url('myriad-pro-bold.eot');
+	src: url('myriad-pro-bold.eot?#iefix') format('embedded-opentype'),
+		 url('myriad-pro-bold.woff') format('woff'),
+		 url('myriad-pro-bold.ttf') format('truetype'),
+		 url('myriad-pro-bold.svg#MyriadPro') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'ProximaNova';
+	src: url('ProximaNova-Reg.eot');
+	src: url('ProximaNova-Reg.eot?#iefix') format('embedded-opentype'),
+		 url('ProximaNova-Reg.woff') format('woff'),
+		 url('ProximaNova-Reg.ttf') format('truetype'),
+		 url('ProximaNova-Reg.svg#ProximaNova') format('svg');
+	font-style: normal;
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: 'ProximaNova';
+	src: url('proximanova-bold.eot');
+	src: url('proximanova-bold.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-bold.woff') format('woff'),
+		 url('proximanova-bold.ttf') format('truetype'),
+		 url('proximanova-bold.svg#ProximaNova') format('svg');
+	font-style: normal;
+	font-weight: 700;
+}
+
+@font-face {
+	font-family: 'ProximaNova';
+	src: url('proximanova-extrabld.eot');
+	src: url('proximanova-extrabld.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-extrabld.woff') format('woff'),
+		 url('proximanova-extrabld.ttf') format('truetype'),
+		 url('proximanova-extrabld.svg#ProximaNova') format('svg');
+	font-style: normal;
+	font-weight: 800;
+}
+
+
+@font-face {
+	font-family: 'ProximaNova';
+	src: url('proximanova-semibold.eot');
+	src: url('proximanova-semibold.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-semibold.woff') format('woff'),
+		 url('proximanova-semibold.ttf') format('truetype'),
+		 url('proximanova-semibold.svg#ProximaNova') format('svg');
+	font-style: normal;
+	font-weight: 600;
+}
+
+@font-face {
+	font-family: 'ProximaNova';
+	src: url('proximanova-regular-italic.eot');
+	src: url('proximanova-regular-italic.eot?#iefix') format('embedded-opentype'),
+		 url('proximanova-regular-italic.woff') format('woff'),
+		 url('proximanova-regular-italic.ttf') format('truetype'),
+		 url('proximanova-regular-italic.svg#ProximaNova') format('svg');
+	font-style: italic;
+	font-weight: normal;
+}

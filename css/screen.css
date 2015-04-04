@@ -1,0 +1,121 @@
+@media screen and (max-width: 1280px){
+	*{
+		-webkit-transition: all 500ms linear;
+		-moz-transition: all 500ms linear;
+		-ms-transition: all 500ms linear;
+		-o-transition: all 500ms linear;
+		transition: all 500ms linear;
+	}
+	img{
+		max-width: 100%;
+	}
+	.box-center{
+		width: 1200px;
+	}
+	ul.list-features li{
+		margin: 0px 2% 20px;
+		width: 21%;
+	}
+	ul.list-features li .img-features{
+		height: auto;
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 1199px){
+	.box-center{
+		width: 970px;
+		padding: 0px 11px;
+	}
+	#header .menu-left ul li a, #header .menu-right ul li a{
+		padding: 0px 20px;
+	}
+}
+
+@media screen and (max-width: 969px){
+	.box-center{
+		width: 750px;
+		padding: 0px 9px;
+	}
+	.all-about-container .excerpt-about{
+		padding: 0px 40px;
+	}
+	ul.list-features li{
+		width: 46%;
+		margin-bottom: 50px;
+	}
+	ul.list-features li:first-child{
+		margin-left: 2%;
+	}
+	ul.list-social li{
+		width: 18%;
+		margin: 0px 1%;
+	}
+
+	ul.list-social li img{
+		max-width: 100%;
+	}
+	#header .menu-left ul li a, #header .menu-right ul li a {
+	    padding: 0 7px;
+	}
+}
+
+@media screen and (max-width: 767px){
+	.box-center{
+		width: auto;
+		padding: 0px 15px;
+	}
+	#header .box-center{
+		padding: 20px 15px;
+	}
+	#header .logo{
+		position: static;
+		text-align: center;
+		width: auto;
+		margin-bottom: 30px;
+	}
+	.gym-container .gym-left{
+		float: none;
+		text-align: center;
+		width: auto;
+		padding: 40px 15px;
+	}
+	.gym-container .gym-right{
+		float: none;
+		padding: 40px 15px;
+		width: auto;
+		text-align: center;
+	}
+	ul.list-features li{
+		width: 98%;
+		margin-bottom: 50px;
+	}
+	#header .menu-left, #header .menu-right{
+		float: none;
+		padding: 0px;
+		width: auto;
+		display: none;
+	}
+	#header .menu-left ul, #header .menu-right ul, .menu-total ul{
+		padding: 0px;
+	}
+	#header .menu-left ul li, #header .menu-right ul li, .menu-total ul li{
+		display: block;
+	}
+	#header .menu-left ul li a, #header .menu-right ul li a, .menu-total ul li a{
+		border-bottom: 1px solid #ccc;
+		border-left: 1px solid #ccc;
+		border-right: 1px solid #ccc;
+		line-height: 25px;
+	}
+	.toggle-menu{
+		display: block;
+	}
+	ul.list-features li .img-features{
+		width: auto;
+		display: inline-block;
+	}	
+	ul.list-features li a{
+		display: block;
+	}
+}
